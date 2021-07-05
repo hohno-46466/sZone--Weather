@@ -5,7 +5,7 @@ Ishikawa
     ./Ishikawa
     ├── Kanazawa
     │   ├── README.md
-    │   └── testdata00.txt
+    │   └── 2021-06_07.txt
     └── README.md
-    
+
     1 directory, 3 files

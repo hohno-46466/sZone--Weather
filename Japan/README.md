@@ -6,8 +6,8 @@ Japan
     ├── Ishikawa
     │   ├── Kanazawa
     │   │   ├── README.md
-    │   │   └── testdata00.txt
+    │   │   └── 2021-06_07.txt
     │   └── README.md
     └── README.md
-    
+
     2 directories, 4 files

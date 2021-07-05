@@ -4,6 +4,6 @@ Kanazawa
 
     ./Kanazawa
     ├── README.md
-    └── testdata00.txt
-    
+    └── 2021-06_07.txt
+
     0 directories, 2 files
