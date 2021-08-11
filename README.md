@@ -1,4 +1,4 @@
-# sZone--Weather
+# GitHub/sZone--Weather
 
 Weather Information
 
@@ -13,3 +13,5 @@ Weather Information
     └── README.md
 
     3 directories, 5 files
+
+-EOF-
