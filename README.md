@@ -14,4 +14,6 @@ Weather Information
 
     3 directories, 5 files
 
+Note: 	url = https://github.com/hohno-46466/sZone--Weather
+
 -EOF-
