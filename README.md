@@ -16,4 +16,6 @@ Weather Information
 
 Note: 	url = https://github.com/hohno-46466/sZone--Weather
 
+Note:   url = git@github.com:hohno-46466/sZone--Weather.git
+
 -EOF-
