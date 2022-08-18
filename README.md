@@ -14,8 +14,8 @@ Weather Information
 
     3 directories, 5 files
 
-Note: url = https://github.com/hohno-46466/sZone--Weather
+Note: URL = https://github.com/hohno-46466/sZone--Weather
 
-Note: url = git@github.com:hohno-46466/sZone--Weather.git
+Note: URL = git@github.com:hohno-46466/sZone--Weather.git
 
 -EOF-
