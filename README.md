@@ -3,16 +3,19 @@
 Weather Information
 
     ./sZone--Weather
-    ├── Japan
-    │   ├── Ishikawa
-    │   │   ├── Kanazawa
-    │   │   │   ├── README.md
-    │   │   │   └── 2021-06_07.txt
-    │   │   └── README.md
-    │   └── README.md
-    └── README.md
+     ├──  Japan/
+     │   ├──  Ishikawa/
+     │   │   ├──  Kanazawa/
+     │   │   │   ├──  2021-06_07.old
+     │   │   │   ├──  2021-06_07.txt
+     │   │   │   └──  README.md
+     │   │   └──  README.md
+     │   └──  README.md
+     ├──  README.md
+     └──  README.md.old
+     
+     3 directories, 7 files (Sun Aug 28 21:29:43 JST 2022)
 
-    3 directories, 5 files
 
 Note: URL = https://github.com/hohno-46466/sZone--Weather
 
